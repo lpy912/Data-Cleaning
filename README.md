@@ -9,6 +9,6 @@ In summary, we have 6 items to be completed in this data cleaning exercise.
 2. Delete unused columns in analysis such as index column and link used in data scraping
 3. Replace blank with NaN for numerical columns and NA for categorical columns
 4. Convert acres into square feet to ensure consistent UOM is used
-5. Remove all units such as "RM" and "sq. ft"
-6. Convert data type accordingly
+5. Remove all units such as "RM", "sq. ft","Bedrooms", "Bathrooms" and "Acres"
+6. Convert data type accordingly (int, float, str)
 7. Split Facilities column into different columns with 1 and 0 represent facility available and facility not available respectively.
