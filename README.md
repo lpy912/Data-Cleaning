@@ -4,7 +4,7 @@ This repository is related to House Price Prediction project where I demonstrate
 
 Before we start, we need to identify the scope of data cleaning by screening through the data.
 In summary, we have 10 items to be completed in this data cleaning exercise.
-1. Area column-To strip the blank space in front of the values
+1. Area-To strip the blank space in front of the values
 2. To delete unused columns in analysis such as index column and link used in data scraping
 3. Price-eliminate "RM" (currency name) and change the data type to numeric
 4. Bedroom-eliminate "Bedroom" and replace all blank with NA
